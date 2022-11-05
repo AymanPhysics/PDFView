@@ -1,0 +1,5 @@
+D:\OneDrive\Projects\ProjectsPrivate\PDFView\SamplePDFViewer\obj\Debug\SamplePDFViewer.vbprojAssemblyReference.cache
+D:\OneDrive\Projects\ProjectsPrivate\PDFView\SamplePDFViewer\obj\Debug\SamplePDFViewer.Form1.resources
+D:\OneDrive\Projects\ProjectsPrivate\PDFView\SamplePDFViewer\obj\Debug\SamplePDFViewer.Resources.resources
+D:\OneDrive\Projects\ProjectsPrivate\PDFView\SamplePDFViewer\obj\Debug\SamplePDFViewer.vbproj.GenerateResource.cache
+D:\OneDrive\Projects\ProjectsPrivate\PDFView\SamplePDFViewer\obj\Debug\SamplePDFViewer.vbproj.CoreCompileInputs.cache
